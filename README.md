@@ -2,7 +2,7 @@
 I developed an interactive HR Analytics Dashboard using Power BI to analyze employee attrition and workforce trends. The dashboard highlights key factors such as age, salary, job role, education, and years at company impacting employee turnover. It helps HR teams make data-driven decisions to improve retention and workforce planning.
 
 ---
-## 📌 Project Overview
+## Project Overview
 
 This project presents an interactive **HR Analytics Dashboard** developed using **Power BI** to analyze employee attrition and workforce trends.
 
@@ -12,7 +12,7 @@ The main objective of this project is to help HR teams understand attrition patt
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Employee attrition leads to increased hiring costs and productivity loss.
 
@@ -26,7 +26,7 @@ This dashboard answers important business questions:
 
 ---
 
-## 📈 Key KPIs
+##  Key KPIs
 
 * **Total Employees:** 1470
 * **Total Attrition:** 237
@@ -37,7 +37,7 @@ This dashboard answers important business questions:
 
 ---
 
-## 🔍 Dashboard Insights
+##  Dashboard Insights
 
 * Highest attrition observed in the **26–35 age group**
 * Employees earning **up to 5K salary** have higher attrition
@@ -47,7 +47,7 @@ This dashboard answers important business questions:
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 * **Power BI** – Data modeling, dashboard creation, and visualization
 * **DAX** – Creating calculated measures and KPIs
@@ -55,7 +55,7 @@ This dashboard answers important business questions:
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 ```
 HR-Analytics-Dashboard/
@@ -68,7 +68,7 @@ HR-Analytics-Dashboard/
 
 ---
 
-## 💡 Business Impact
+##  Business Impact
 
 * Identifies high-risk employee segments
 * Helps HR teams improve retention strategies
