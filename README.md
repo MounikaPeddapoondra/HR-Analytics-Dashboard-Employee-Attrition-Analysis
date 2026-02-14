@@ -18,11 +18,13 @@ Employee attrition leads to increased hiring costs and productivity loss.
 
 This dashboard answers important business questions:
 
-* What is the overall attrition rate?
-* Which age group shows the highest attrition?
-* Does salary impact employee turnover?
-* Which job roles are most affected?
-* When are employees most likely to leave?
+* What is the overall employee attrition rate?
+* Which age group has the highest attrition?
+* Does salary level impact employee turnover?
+* Which job roles experience the most attrition?
+* How does education background influence attrition?
+* At what stage (years at company) are employees most likely to leave?
+* Is there a difference in attrition between male and female employees?
 
 ---
 ## Dataset Used
