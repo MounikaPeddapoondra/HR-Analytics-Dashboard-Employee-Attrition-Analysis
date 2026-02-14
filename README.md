@@ -26,8 +26,7 @@ This dashboard answers important business questions:
 
 ---
 ## Dataset Used
-
-
+- <a href="https://github.com/MounikaPeddapoondra/HR-Analytics-Dashboard-Employee-Attrition-Analysis/blob/main/HR%20Analytics%20Excel%20Data.xlsx">Dataset</a>
 
 ##  Key KPIs
 
