@@ -28,6 +28,7 @@ This dashboard answers important business questions:
 ## Dataset Used
 - <a href="https://github.com/MounikaPeddapoondra/HR-Analytics-Dashboard-Employee-Attrition-Analysis/blob/main/HR%20Analytics%20Excel%20Data.xlsx">Dataset</a>
 
+---
 ##  Key KPIs
 
 * **Total Employees:** 1470
@@ -38,7 +39,8 @@ This dashboard answers important business questions:
 * **Average Years at Company:** 7.01 years
 
 ---
-
+## Dashboard Interaction
+- <a href
 ##  Dashboard Insights
 
 * Highest attrition observed in the **26–35 age group**
