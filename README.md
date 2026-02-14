@@ -60,7 +60,8 @@ This dashboard answers important business questions:
 
 ---
 ## Dashboard
-https://1drv.ms/i/c/f8cbd4defa45f578/IQBvrnpWLf4STpFOd32XM6_XAe-NNNuRfQ6UY8jR-gIuY7s?e=u5JaDC
+<img width="1502" height="836" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/a12ff025-0172-4803-b859-d79aedae6b27" />
+
 
 ##  Project Files
 
