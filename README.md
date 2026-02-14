@@ -40,7 +40,8 @@ This dashboard answers important business questions:
 
 ---
 ## Dashboard Interaction
-- <a href
+- <a href="https://github.com/MounikaPeddapoondra/HR-Analytics-Dashboard-Employee-Attrition-Analysis/blob/main/HR%20Analytics%20Dashboard.png">View Dashboard</a>
+---
 ##  Dashboard Insights
 
 * Highest attrition observed in the **26–35 age group**
